@@ -1,0 +1,1 @@
+las distintas carpetas son para usarlas dependiendo del tipo de formato de archivo a usar
