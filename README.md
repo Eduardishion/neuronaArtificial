@@ -1,7 +1,7 @@
 # neuronaArtificial
 Este es un ejemplo realizado en JAVA, del funcionamiento de un perseptron simple 
 
-Una excelnte referencia de las mas sencillas para paadentrarse a las redes neuronales y la cual e consultado para hacer esta breve inplemtancion es:
+Una excelnte referencia de las mas sencillas para para adentrarse a las redes neuronales y la cual e consultado para hacer esta breve inplemtancion es:
 
 - REDES DE NEURONAS ARTIFICIALES UN ENFOQUE PRACTICO DE Isasi Viñuela Y Galvan Leon
 
