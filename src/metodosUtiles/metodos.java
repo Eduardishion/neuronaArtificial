@@ -49,6 +49,8 @@ public class metodos {
                     for (int i = 0; i < vectorEntradasTemporal.size(); i++) {
                         System.out.println(""+vectorEntradasTemporal.get(i).getE());
                     } 
+
+
                  */
                         
                 return vectorEntradasTemporal;
