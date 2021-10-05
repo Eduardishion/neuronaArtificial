@@ -3,6 +3,7 @@ Este es un ejemplo realizado en JAVA, del funcionamiento de un perseptron simple
 
 Una excelnte referencia de las mas sencillas para para adentrarse a las redes neuronales y la cual e consultado para hacer esta breve inplemtancion es:
 
+
 - REDES DE NEURONAS ARTIFICIALES UN ENFOQUE PRACTICO DE Isasi Viñuela Y Galvan Leon
 
 Aun  hay muchas mas referencias pero esta me parecio muy clara para entender el concepto de perseptron y cimentar las bases de lo que es una red neuronal artificial y dar paso a entender algoritmos mas complejos como una red backpropagation, y fundamentarse para entender mas conceptos mas complejos, para despues consultar otros textos como podria ser el uso de librerias como tensorflow o keras, pero esa es otra historia.
